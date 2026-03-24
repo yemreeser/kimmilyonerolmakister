@@ -1,10 +1,10 @@
+C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.exe.config
+C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.exe
+C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.pdb
 C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.csproj.AssemblyReference.cache
 C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.Form1.resources
 C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.Properties.Resources.resources
 C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.csproj.GenerateResource.cache
 C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.csproj.CoreCompileInputs.cache
-C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.exe.config
-C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.exe
-C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.pdb
 C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.exe
 C:\Users\pc\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.pdb
