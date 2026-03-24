@@ -1,0 +1,24 @@
+Türkiye'nin başkenti neresidir?|Ankara|İstanbul|İzmir|Bursa|A|1
+Hangisi bir meyvedir?|Biber|Elma|Marul|Ispanak|B|1
+2+2 kaç eder?|3|4|5|6|B|1
+Gökyüzü ne renktir?|Yeşil|Kırmızı|Mavi|Sarı|C|1
+Hangisi bir ulaşım aracıdır?|Masa|Sandalye|Otobüs|Kalem|C|1
+İstiklal Marşı'nın yazarı kimdir?|Ziya Gökalp|Mehmet Akif Ersoy|Namık Kemal|Reşat Nuri Güntekin|B|2
+Dünya'nın uydusu hangisidir?|Güneş|Mars|Ay|Venüs|C|2
+Cumhuriyet kaç yılında ilan edildi?|1920|1923|1938|1945|B|2
+Hangi ilimiz Ege Bölgesi'ndedir?|Ankara|İzmir|Sivas|Trabzon|B|2
+Futbol maçı kaç dakika sürer?|45|60|90|120|C|2
+Hangisi bir element değildir?|Demir|Bakır|Su|Altın|C|3
+Kızılırmak hangi denize dökülür?|Ege Denizi|Akdeniz|Marmara Denizi|Karadeniz|D|3
+Fatih Sultan Mehmet İstanbul'u kaç yılında fethetti?|1453|1299|1517|1923|A|3
+Güneş sistemindeki en büyük gezegen hangisidir?|Dünya|Mars|Jüpiter|Satürn|C|3
+Sinekli Bakkal romanının yazarı kimdir?|Halide Edib Adıvar|Reşat Nuri Güntekin|Ömer Seyfettin|Peyami Safa|A|3
+Pisa Kulesi hangi ülkededir?|Fransa|İspanya|İtalya|Almanya|C|4
+Atomun çekirdeğinde hangisi bulunur?|Elektron|Proton|Foton|Nötrino|B|4
+Mona Lisa tablosu kime aittir?|Picasso|Van Gogh|Leonardo da Vinci|Salvador Dali|C|4
+Nobel ödülleri hangi ülkede verilir?|ABD|İngiltere|İsveç|Almanya|C|4
+Divan-ı Lügati't-Türk kimin eseridir?|Kaşgarlı Mahmud|Yusuf Has Hacib|Edip Ahmed Yükneki|Ahmed Yesevi|A|5
+Periyodik cetvelde 'Au' sembolü hangi elementi temsil eder?|Gümüş|Bakır|Altın|Platin|C|5
+İnce Memed romanının yazarı kimdir?|Yaşar Kemal|Orhan Pamuk|Aziz Nesin|Sabahattin Ali|A|5
+Dünyanın en derin noktası olan Mariana Çukuru hangi okyanustadır?|Atlantik Okyanusu|Hint Okyanusu|Büyük Okyanus|Arktik Okyanusu|C|5
+Astronomi biliminin kurucusu olarak kabul edilen bilgin kimdir?|Ali Kuşçu|İbn-i Sina|Harezmi|Biruni|A|5
